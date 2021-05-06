@@ -1,3 +1,3 @@
 # josepineda34.github.io
 Trabajos de ICT
-[Menu Page](RestaurantMenuV JOSE PINEDA.html)
+1. [Menu Page](RestaurantMenuV JOSE PINEDA.html)
